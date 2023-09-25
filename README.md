@@ -1,34 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Car Rental E-commerce
+Final Proyect
 
-## Getting Started
+Web Application made with Next, tailwind, mysql, redux and some <br/>
+libraries like firebase .<br/>
+  
+It allows the visitor to look for more information about the company; <br/>
+the user to rent a vehicle and look for their rents info and the admin <br/>
+to manage the database.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+This project included the next functionalities:
+- Login form controlled by JS.
+- Filters and ordering.
+- Search Bar.
+- Admin Console.
+- User dashboard
+- Logical deletion.
+- Deploy.
+- Mobile-first approach.
+- Payment waypoint
+- Mail notifications.
+- Ratings.
+- Live chat (using socket.io).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project was made in collaboration with:
+- <a href="https://github.com/aldovelacasas">Aldo Vela Casas</a>
+- <a href="https://github.com/tonyzl">Germán Antonio Zapata</a>
+- <a href="https://github.com/ChristianAraneda">Christian Ignacio Aaraneda</a>
+- <a href="https://github.com/ezelujan2">Ezequiel Javier Lujan</a>
+- <a href="https://github.com/facukozlowski">Facundo Fabián Kozlowski</a>
+- <a href="https://github.com/karenpiera">Karen Denise Piera</a>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Captures: <br/>
+<img src="https://drive.google.com/uc?export=download&id=1mLhekAnMXBnO0OZeVpO5Xe-PSfp_pynz" alt="Proyect Landing Page" width="400"/><br/>
+Landing page
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<img src="https://drive.google.com/uc?export=download&id=1OxtHnoFXsOReyNhfeDdpUYA-f_iSrTeR" alt="Proyect Vehicles Page" width="400"/><br/>
+Vehicles Page
 
-## Learn More
+<img src="https://drive.google.com/uc?export=download&id=1JkXoarPZTdJey6FU2xk6Lt4HBih6MB6S" alt="Proyect Payments Page" width="400"/><br/>
+Payments Page
 
-To learn more about Next.js, take a look at the following resources:
+<img src="https://drive.google.com/uc?export=download&id=1Gc8XgqBGasAj9owmoP7sVeIrdpH-rHqD" alt="Proyect Chat User" width="400"/><br/>
+<img src="https://drive.google.com/uc?export=download&id=1A_440ZlAZZipTujfWaW3KApJJOr0jvhw" alt="Proyect Chat Admin" width="400"/><br/>
+Live Chat
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<img src="https://drive.google.com/uc?export=download&id=1-_hmY4ED_DOaqcayur0FC7yS6eFtOjBn" alt="Proyect Admin Page" width="400"/><br/>
+Admin Console Page
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<img src="https://drive.google.com/uc?export=download&id=1fxqdmRsdhiapPDqnjKxY27HDpTAs2uu1" alt="Proyect Users Page" width="400"/><br/>
+User Dashboard Page
 
-## Deploy on Vercel
+<a href="https://youtu.be/mca5h77af58" target="_blank" >See the presentation video on youtube (spanish)</a>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<a href="https://pf-rent-car2-1us3pfgxe-aldovelacasas.vercel.app/" target="_blank" >See the deployed version of the page here</a>
